@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
 # Use sqlite3 as the database for Active Record
-gem 'mongoid', '~> 5.1.0'
+
 gem 'httparty'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
